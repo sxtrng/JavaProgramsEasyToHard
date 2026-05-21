@@ -12,19 +12,19 @@
  * 		In another repository are in depth explanations.
  */
 public class JavaOne {
-public static void main(String[] args) {
-
-	System.out.print(100);
-	System.out.print("years is a");
-	System.out.print("century.");
-
-	System.out.println("\n" + 100 + " " + "years is a century.");
-	System.out.println("100 years is a century.");
-
-	System.out.printf("100 years is a century.\n");
-	System.out.printf("\t100 years is a century.\n");
-
-
-	System.exit(0);
+	public static void main(String[] args) {
+	
+		System.out.print(100);
+		System.out.print("years is a");
+		System.out.print("century.");
+	
+		System.out.println("\n" + 100 + " " + "years is a century.");
+		System.out.println("100 years is a century.");
+	
+		System.out.printf("100 years is a century.\n");
+		System.out.printf("\t100 years is a century.\n");
+	
+	
+		System.exit(0);
 	}
 }
